@@ -20,7 +20,7 @@ const Search = () => {
         placeholder="Search..."
         value={input}
         onChange={(e) => setInput(e.target.value)}
-        className="bg-transparent text-white outline-none flex-1 placeholder-gray-400"
+        className="bg-transparent text-white outline-none flex-1 font-Montserrat placeholder-gray-400"
       />
     </form>
   );

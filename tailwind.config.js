@@ -11,6 +11,7 @@ export default {
         Gaegu: ["Gaegu"],
         Montserrat: ["Montserrat"],
         LobsterTwo: ["Lobster Two"],
+        Kalam: ["Kalam"],
       },
     },
   },
